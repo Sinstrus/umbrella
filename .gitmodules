@@ -4,3 +4,18 @@
 [submodule "DnaChisel"]
 	path = DnaChisel
 	url = git@github.com:Edinburgh-Genome-Foundry/DnaChisel.git
+[submodule "Overhang"]
+	path = Overhang
+	url = git@github.com:Edinburgh-Genome-Foundry/Overhang.git
+[submodule "DnaCauldron"]
+	path = DnaCauldron
+	url = git@github.com:Edinburgh-Genome-Foundry/DnaCauldron.git
+[submodule "DnaFeaturesViewer"]
+	path = DnaFeaturesViewer
+	url = git@github.com:Edinburgh-Genome-Foundry/DnaFeaturesViewer.git
+[submodule "DnaWeaver"]
+	path = DnaWeaver
+	url = git@github.com:Edinburgh-Genome-Foundry/DnaWeaver.git
+[submodule "BandWitch"]
+	path = BandWitch
+	url = git@github.com:Edinburgh-Genome-Foundry/BandWitch.git
