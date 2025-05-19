@@ -1,0 +1,1 @@
+This project folder is the umbrella repository for DNA sequence design and modification.
